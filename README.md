@@ -1,1 +1,0 @@
-# supermarket-bill-generation
